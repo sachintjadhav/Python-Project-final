@@ -1,6 +1,7 @@
 **Restaurant Management & Billing System**
 
 **📌 Project Overview**
+
 Restaurant Management & Billing System is a Python-based console application designed to manage essential restaurant operations such as menu management, customer order processing, automated billing, order history, and sales reporting.
 The project uses Python, JSON file handling, functions, data structures, exception handling, and datetime operations to create a simple and practical restaurant management solution.
 The application provides separate options for customers and administrators, allowing menu items to be managed and customer orders to be processed efficiently.
@@ -8,6 +9,7 @@ The application provides separate options for customers and administrators, allo
 
 ________________________________________
 **🎯 Project Objective**
+
 The main objective of this project is to develop a simple restaurant management application that can:
 •	Manage restaurant menu items and prices.
 •	Allow customers to place orders.
