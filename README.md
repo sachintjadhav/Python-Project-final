@@ -26,6 +26,7 @@ ________________________________________
 **🚀 Key Features**
 
 **1. Menu Management**
+
 The system provides an admin panel for managing restaurant menu items.
 Administrators can:
 •	View menu items
@@ -35,6 +36,7 @@ Administrators can:
 •	Update item prices
 ________________________________________
 **2. Customer Order Management**
+
 Customers can:
 •	View available menu items.
 •	Select food items using Item ID.
@@ -43,6 +45,7 @@ Customers can:
 •	Receive validation for invalid item IDs and quantities.
 ________________________________________
 **3. Automated Billing**
+
 The system automatically calculates:
 Item Total = Price × Quantity
 
@@ -65,6 +68,7 @@ The generated bill contains:
 •	Grand total
 ________________________________________
 **4. Order History**
+
 All completed orders are stored in a JSON file.
 The application allows users to view:
 •	Previous Order IDs
@@ -76,10 +80,12 @@ The application allows users to view:
 •	Grand totals
 ________________________________________
 **5. Order Search**
+
 Users can search for a specific order by entering its Order ID.
 The system retrieves the corresponding order and displays its complete bill.
 ________________________________________
 **6. Sales Report**
+
 The application provides a basic sales reporting feature that calculates:
 •	Total Orders
 •	Total Items Sold
@@ -146,6 +152,7 @@ The admin panel provides menu management functionality:
 5. Back to Main Menu
 ________________________________________
 **📊 Sales Reporting**
+
 The sales report provides basic business performance metrics:
 Total Orders
 Total Items Sold
@@ -154,6 +161,7 @@ Average Order
 These metrics can help understand restaurant transaction performance.
 ________________________________________
 **🧠 Learning Outcomes**
+
 Through this project, I gained practical experience in:
 •	Developing a Python-based business application.
 •	Designing modular functions.
@@ -167,6 +175,7 @@ Through this project, I gained practical experience in:
 •	Structuring a complete console-based application.
 ________________________________________
 **🔮 Future Enhancements**
+
 The project can be further improved by adding:
 •	MySQL database integration.
 •	Login and authentication.
