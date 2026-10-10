@@ -24,6 +24,7 @@ ________________________________________
 
 
 **🚀 Key Features**
+
 **1. Menu Management**
 The system provides an admin panel for managing restaurant menu items.
 Administrators can:
